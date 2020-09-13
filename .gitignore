@@ -1,4 +1,5 @@
 .project
+*.md.html
 .DS_Store
 .BridgeSort
 *.tif
