@@ -1,10 +1,14 @@
 .DS_Store
-.project
-*.prefs
 .BridgeSort
 
-DUMP.JSON
-*.md.html
+.project
+.pydevproject
+*.prefs
+
 AlbumArt*
 Folder.jpg
+
+*.md.html
 *.tif
+
+DUMP.JSON
