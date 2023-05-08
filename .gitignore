@@ -3,6 +3,7 @@
 *.prefs
 .BridgeSort
 
+DUMP.JSON
 *.md.html
 AlbumArt*
 Folder.jpg
