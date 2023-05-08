@@ -1,8 +1,9 @@
-.project
-*.md.html
 .DS_Store
+.project
+*.prefs
 .BridgeSort
-*.tif
 
+*.md.html
 AlbumArt*
 Folder.jpg
+*.tif
