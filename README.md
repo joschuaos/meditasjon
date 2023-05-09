@@ -8,9 +8,9 @@ Dette repository inneholder filer som kan brukes for meditasjon.
     * bilder/
     * lydfiler/
        * Roman-Heuser/
-          * Terranigma-Revisited/: …
+          * Terranigma-Revisited/: â€¦
        * SATS/
-          * de-fire-elementer/: …
-          * meditation/: …
-          * yoga-nitra/: …
+          * de-fire-elementer/: â€¦
+          * meditation/: â€¦
+          * yoga-nitra/: â€¦
           * sats_happy-new-sleep.mp3
